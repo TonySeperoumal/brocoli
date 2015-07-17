@@ -7,6 +7,8 @@
 </head>
 <body>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, cum, incidunt atque deserunt pariatur voluptate obcaecati recusandae eaque error ut possimus doloremque vel quo dolore ducimus porro harum culpa unde!</p>
+
+	<script type="text/javascript" src="js/broco.js"></script>
 	
 </body>
 </html>
